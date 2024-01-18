@@ -2,9 +2,9 @@
 
 ### Eaee! Eu sou Vitor Siqueira Simeão
 
-- 🔭 Hoje trablho com FrontEnd
-- 🌱 Estudando Pyhton
-- 👯 Ultimo ano de Técnico em Desenvolvimento e Anánlise de Sistemas
+
+- 🌱 Desenvolvedor FullStack
+- 👯 Técnico em Desenvolvimento e Anánlise de Sistemas
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-siqueira-simeao-ba3317274/)
    
